@@ -1,4 +1,4 @@
-![](https://github.com/dykawasaki/tiken_hiro/blob/main/ui_hud_jogo.png](https://github.com/dykawasaki/Tecnicas_Ferramentas/blob/main/git_capa_tecnicas.png)
+![](https://github.com/dykawasaki/Tecnicas_Ferramentas/blob/main/git_capa_tecnicas.png)
  
 # Técnicas e Ferramentas
  
